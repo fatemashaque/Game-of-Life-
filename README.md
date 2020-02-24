@@ -1,4 +1,6 @@
 # Game-of-Life-
+This program simulates John Von Neumann's Game of Life. The definition of life according to John Von Neumann is that a cell is alive if it can reproduce itself and simulate a Turing machine.
+
 The user must be able to provide these 3 things as arguments when executing the program from Console:
 
 the size of the square grid (any integer)
